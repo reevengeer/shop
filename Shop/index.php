@@ -23,6 +23,12 @@ and open the template in the editor.
                 <p>Vente de 609 pièces au prix moyen de 138,71 euros</p>
             </section> 
             <h2> Contact Responsable des stocks </h2>
-            <p>Julie te extension 18</p> </div>
+            <p>Julie te extension 18</p>
+        </div>
+        <section>
+            <h2>News</h2>
+            <p>Le site progresse bien</p>
+        </section>
+
     </body>
 </html>
